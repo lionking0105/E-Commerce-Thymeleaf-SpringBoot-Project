@@ -54,7 +54,6 @@ Postman (For testing the web services)
 
 
 
-- Admin  Panel project can be found in (https://github.com/mgjerazi/Admin-Panel-Angular-Front-End)
 
 Application screenshots below 
 
